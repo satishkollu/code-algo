@@ -13,13 +13,21 @@ You can use ANY programming language to solve these problems
 5. Done!
 
 ## Problem Statements
+
 1.Easy (recommended for beginners)
+
 2.Program to find factorial of number
+
 3.Program to find largest element in array
+
 4.Program to find smallest element in array
+
 5.Program to find lenght of a string
+
 6.Program to sort given array (ascending & descending)
+
 7.Program to print leap years in given range
+
 8.Program to count sum of all numbers in arrayMedium (recommended for intermidiate 9.Program to calculate count of vowels & consonants
 .
 .
